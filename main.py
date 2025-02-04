@@ -9,3 +9,7 @@ def vivaMechMat():
     print("Viva Mech-mat faculty")
 
 vivaMechMat()
+def vivaMechMat():
+    print("Viva Mech-mat faculty!!!")
+
+vivaMechMat()
