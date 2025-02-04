@@ -5,3 +5,7 @@ def newFeature():
     print("This is a new feature!")
 
 newFeature()
+def vivaMechMat():
+    print("Viva Mech-mat faculty")
+
+vivaMechMat()
